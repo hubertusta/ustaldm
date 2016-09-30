@@ -1,0 +1,69 @@
+/*
+Evaluacion final Lenguajes de marcaje - alumno Hubert Bent
+*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #212121 url(../img/fondo.jpg);
+	color: #FFF;
+	font-family: Lucida Bright; 
+	font-size: 28px;
+}
+
+h1 {
+	color: #0000ff;
+	margin: 0.25em auto;
+	text-align: center;
+}
+header, nav, footer {
+	background: #00ffff;
+	border-radius: 0.5em;
+	color:#0000ff;
+	margin:  0.5em auto;
+	max-width: 970px;
+	min-height: 100px;
+	padding: 0.25em;
+	text-align: center;
+	height: 20%;	
+}
+nav,{
+	height: 80%;
+}
+
+section#a {
+	margin: 0.5em auto;
+	max-width: 2000px;
+	padding: 0;
+	text-align: center;
+}
+section#b, aside {
+	background: #008000;
+	border-radius: 0.5em;
+	display: inline-block;
+	margin: 0.25em auto;
+	max-width: 450px;
+	min-height: 500px;
+	padding: 0.25em;
+	text-align: center;
+	vertical-align: top;
+	width: 50%;
+}
+article {
+	background: #00ff00;
+	border-radius: 0.25em;
+	margin: 0.20em auto;
+	max-width: 500px;
+	min-height: 450px;
+	padding: 0.25em;
+	text-align: center;
+}
+
+
+
+
+
+
+
